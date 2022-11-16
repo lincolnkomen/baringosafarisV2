@@ -1,9 +1,9 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square144x144logo src="/main/mstile-144x144.png?v=2"/>
-            <square150x150logo src="/main/mstile-150x150.png?v=2"/>
-            <square310x310logo src="/main/mstile-310x310.png?v=2"/>
+            <square144x144logo src="/main/ms-icon-144x144.png?v=2"/>
+            <square150x150logo src="/main/ms-icon-150x150.png?v=2"/>
+            <square310x310logo src="/main/ms-icon-310x310.png?v=2"/>
             <TileColor>#ffc40d</TileColor>
         </tile>
     </msapplication>
